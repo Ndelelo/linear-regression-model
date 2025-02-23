@@ -1,7 +1,9 @@
 # Linear Regression Model in Rust
 
 ## Introduction
-This project implements a simple linear regression model using Rust and the `burn` library. Below are the step-by-step instructions, from setting up the development environment to training and evaluating the model.
+Linear regression is one of the fundamental building blocks of machine learning, serving as an excellent starting point for understanding how AI models learn from data. In this assignment, i was implementing a simple linear regression model using Rust and the Burn deep learning framework to predict values for the linear function y = 2x + 1.
+
+Below are the steps and instructions, from setting up the development environment to training and evaluating the model.
 
 ## Prerequisites
 Before starting, ensure the following applications are installed:
